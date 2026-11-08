@@ -3,10 +3,10 @@
   <channel>
     <title>Vinyasa</title>
     <item>
-      <title>Vinyasa 0.1.3</title>
-      <pubDate>Sun, 08 Nov 2026 03:00:15 GMT</pubDate>
-      <sparkle:version>26</sparkle:version>
-      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+      <title>Vinyasa 0.1.4</title>
+      <pubDate>Sun, 08 Nov 2026 05:32:20 GMT</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<style>
 section { margin: 0 0 14px; }
@@ -19,8 +19,19 @@ section.sparkle-installed-version > * { display: none; }
 section.sparkle-installed-version > .cur { display: block; color: #8E8E93; font-size: 0.92em; border-top: 1px solid #E5E5E5; padding-top: 6px; }
 section.sparkle-installed-version ~ section { display: none; }
 </style>
+<section data-sparkle-version="30">
+<h3>v0.1.4 <span class="tag">설치할 버전</span><small>2026. 11. 08.</small></h3>
+<ul>
+<li>설정 창의 탭을 왼쪽 목록에서 위쪽 한 줄(아이콘 + 이름)로 옮김. 머리(제목 + 탭 줄)는 고른 머리 색, 신호등도 이 띠 위에</li>
+<li>설정 창 높이가 지금 연 탭 내용에 맞춰 바뀌고, 창 위 끝은 그 자리에 둠(화면 아래로 넘치면 그만큼만 올림). 머리를 끌어 옮긴 자리를 기억</li>
+<li>단축키 탭처럼 긴 탭은 화면 높이에서 멈추고 본문만 스크롤</li>
+<li>팝업 머리의 톱니를 버전 바로 오른쪽으로 옮김</li>
+<li>머리 색은 앱 머리 · 설정 머리 · 스위치 · 주 단추 네 곳에만 들어감. 「사이드바 · 주 단추에도 같은 색」 스위치는 뺌</li>
+</ul>
+<p class="cur">v0.1.4 (지금 버전) 이전 내용은 보여 주지 않습니다.</p>
+</section>
 <section data-sparkle-version="26">
-<h3>v0.1.3 <span class="tag">설치할 버전</span><small>2026. 11. 08.</small></h3>
+<h3>v0.1.3<small>2026. 11. 08.</small></h3>
 <ul>
 <li>설정에 「업데이트」 탭을 새로 둠: 지금 버전 · 자동으로 업데이트 확인 · 마지막 확인 · 업데이트 확인… · 모든 버전 보기…</li>
 <li>새 버전을 더 자주 확인함 (앱을 켤 때 · 잠자기에서 깨어날 때도)</li>
@@ -63,7 +74,7 @@ section.sparkle-installed-version ~ section { display: none; }
 </ul>
 <p class="cur">v0.1.0 (지금 버전) 이전 내용은 보여 주지 않습니다.</p>
 </section>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/vinyasa-releases/main/releases/Vinyasa-0.1.3.zip" length="2782120" type="application/octet-stream" sparkle:edSignature="38P0KmHEAm19yxF/tfneQcTD5GP0pESoTo1+ju0006wV41+z5SCuQJ+2iEmU0nELDybvRMPpMX+TFwJg9vO2Cg=="/>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/vinyasa-releases/main/releases/Vinyasa-0.1.4.zip" length="2811543" type="application/octet-stream" sparkle:edSignature="loHnRzdXpOXdcESLb5OHmtq2aMDdCC06KTNmTIRWTT4t5f8dktn3fqyNOmScVhFJFPx0G8OoFdlCQxeP8roFDw=="/>
     </item>
   </channel>
 </rss>
