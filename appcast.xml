@@ -3,10 +3,10 @@
   <channel>
     <title>Vinyasa</title>
     <item>
-      <title>Vinyasa 0.1.5</title>
-      <pubDate>Sun, 08 Nov 2026 07:24:59 GMT</pubDate>
-      <sparkle:version>33</sparkle:version>
-      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+      <title>Vinyasa 0.1.6</title>
+      <pubDate>Sun, 08 Nov 2026 10:22:18 GMT</pubDate>
+      <sparkle:version>35</sparkle:version>
+      <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<style>
 section { margin: 0 0 14px; }
@@ -19,8 +19,15 @@ section.sparkle-installed-version > * { display: none; }
 section.sparkle-installed-version > .cur { display: block; color: #8E8E93; font-size: 0.92em; border-top: 1px solid #E5E5E5; padding-top: 6px; }
 section.sparkle-installed-version ~ section { display: none; }
 </style>
+<section data-sparkle-version="35">
+<h3>v0.1.6 <span class="tag">설치할 버전</span><small>2026. 11. 08.</small></h3>
+<ul>
+<li>설정은 팝업 머리의 톱니로만 엶: 팝업 맨 아래 「설정… ⌘,」 줄을 없앰(⌘,는 톱니 단추에 그대로)</li>
+</ul>
+<p class="cur">v0.1.6 (지금 버전) 이전 내용은 보여 주지 않습니다.</p>
+</section>
 <section data-sparkle-version="33">
-<h3>v0.1.5 <span class="tag">설치할 버전</span><small>2026. 11. 08.</small></h3>
+<h3>v0.1.5<small>2026. 11. 08.</small></h3>
 <ul>
 <li>새 버전이 나오면 팝업 톱니 오른쪽 위에 초록 「↓」 표시, 업데이트 서버와 통신 문제가 있으면 빨강 「!」 표시</li>
 <li>표시가 있을 때 톱니를 누르면 설정이 업데이트 탭으로 열리고, 업데이트 탭 이름 옆에도 같은 표시</li>
@@ -85,7 +92,7 @@ section.sparkle-installed-version ~ section { display: none; }
 </ul>
 <p class="cur">v0.1.0 (지금 버전) 이전 내용은 보여 주지 않습니다.</p>
 </section>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/vinyasa-releases/main/releases/Vinyasa-0.1.5.zip" length="2820267" type="application/octet-stream" sparkle:edSignature="YRw2saH2KDecZ372cw97kxRfafTAZvkZHuUD5hBlSfFO3FDXvPfwRsi33MqFqRqyUdgTCjl83O1Cp6zQAlDrCQ=="/>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/vinyasa-releases/main/releases/Vinyasa-0.1.6.zip" length="2820913" type="application/octet-stream" sparkle:edSignature="tdijal9F+yK+0AGeUl00XgHKIGL6ixXThfXI9hrVJ4C1ZIKayBKwfwkiAYEx8DMzdRQHG9i7fYfhAyYwOCvmBg=="/>
     </item>
   </channel>
 </rss>
