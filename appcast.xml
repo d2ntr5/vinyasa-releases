@@ -3,12 +3,37 @@
   <channel>
     <title>Vinyasa</title>
     <item>
-      <title>Vinyasa 0.1.2</title>
-      <pubDate>Sat, 07 Nov 2026 16:48:53 GMT</pubDate>
-      <sparkle:version>21</sparkle:version>
-      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <title>Vinyasa 0.1.3</title>
+      <pubDate>Sun, 08 Nov 2026 03:00:15 GMT</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul>
+      <description><![CDATA[<style>
+section { margin: 0 0 14px; }
+section h3 { margin: 0 0 4px; font-size: 1.05em; }
+section h3 small { color: #8E8E93; font-weight: normal; margin-left: 6px; }
+section h3 .tag { font-size: 0.75em; font-weight: 600; color: #fff; background: #13675E; border-radius: 4px; padding: 1px 5px; margin-left: 4px; }
+section ul { margin: 0; padding-left: 1.2em; }
+section .cur { display: none; }
+section.sparkle-installed-version > * { display: none; }
+section.sparkle-installed-version > .cur { display: block; color: #8E8E93; font-size: 0.92em; border-top: 1px solid #E5E5E5; padding-top: 6px; }
+section.sparkle-installed-version ~ section { display: none; }
+</style>
+<section data-sparkle-version="26">
+<h3>v0.1.3 <span class="tag">설치할 버전</span><small>2026. 11. 08.</small></h3>
+<ul>
+<li>설정에 「업데이트」 탭을 새로 둠: 지금 버전 · 자동으로 업데이트 확인 · 마지막 확인 · 업데이트 확인… · 모든 버전 보기…</li>
+<li>새 버전을 더 자주 확인함 (앱을 켤 때 · 잠자기에서 깨어날 때도)</li>
+<li>여러 버전이 쌓였을 때 처음 「업데이트」가 실패하던 문제를 고침</li>
+<li>업데이트 안내창에 지금 버전보다 새 버전의 바뀐 점을 버전별로 모두 보여 줌</li>
+<li>업데이트 서버와 연결이 2번 연속 안 되면 팝업 맨 위 · 메뉴 막대 아이콘 · 설정에 빨간 안내와 확인 방법을 보여 줌</li>
+<li>정보 탭은 앱 소개만, 저장된 값 초기화는 일반 탭 맨 아래로</li>
+</ul>
+<p class="cur">v0.1.3 (지금 버전) 이전 내용은 보여 주지 않습니다.</p>
+</section>
+<section data-sparkle-version="21">
+<h3>v0.1.2<small>2026. 11. 08.</small></h3>
+<ul>
 <li>터미널처럼 창 크기를 글자 칸에 맞추는 앱에서도 같은 단축키를 다시 누르면 1/2 → 2/3 → 1/3 로 넘어감 (전에는 1/2 에 멈춤)</li>
 <li>세로로 세운 모니터에서는 3분할 · 2/3 · 가운데 1/2 · 세로 4칸을 위에서부터 가로 줄로 나눔, 아래 가장자리로 끌면 아래 1/3 줄</li>
 <li>창 간격을 「높이만 최대화」 · 「가운데로」에도 적용</li>
@@ -16,8 +41,29 @@
 <li>멈춘 앱의 창에 단축키를 눌러도 Vinyasa 가 오래 기다리지 않음</li>
 <li>최소화된 창에 단축키를 누르면 옮기지 않고 알림</li>
 <li>글자 고르기처럼 창을 옮기지 않는 끌기에서는 창 위치를 그만 물음</li>
-</ul>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/vinyasa-releases/main/releases/Vinyasa-0.1.2.zip" length="2708409" type="application/octet-stream" sparkle:edSignature="VJdp78JIhSvhMEWUkKQVSthqosABxNx9b9deB7inEb06vvl1x31NDyP1s8FowMxVHMJPSyP38fQ3/TRwRBvCBA=="/>
+</ul>
+<p class="cur">v0.1.2 (지금 버전) 이전 내용은 보여 주지 않습니다.</p>
+</section>
+<section data-sparkle-version="10">
+<h3>v0.1.1<small>2026. 11. 04.</small></h3>
+<ul>
+<li>설정의 「앱 업데이트」를 일반 탭에서 정보 탭(버전 아래)으로 옮김</li>
+</ul>
+<p class="cur">v0.1.1 (지금 버전) 이전 내용은 보여 주지 않습니다.</p>
+</section>
+<section data-sparkle-version="6">
+<h3>v0.1.0<small>2026. 11. 04.</small></h3>
+<ul>
+<li>첫 버전: 단축키(⌃⌥⌘ + 키)로 반 · 모서리 · 3분할 · 2/3 · 가운데 1/2 · 세로 4칸 · 6분할 · 최대화 · 거의 최대화 · 높이만 최대화 · 가운데로 · 원래 크기로 · 크게 · 작게 · 이전 · 다음 디스플레이</li>
+<li>같은 단축키를 다시 누르면 1/2 → 2/3 → 1/3</li>
+<li>화면 가장자리로 끌면 붙이기(미리보기), 붙인 창을 떼면 원래 크기로</li>
+<li>메뉴 막대 팝업에서 칸을 눌러 배치</li>
+<li>설정: 단축키 바꾸기 · 충돌 경고, 앱별 제외, 창 간격, 머리 색 · 글씨 크기, 로그인 시 실행, 앱 안 업데이트</li>
+<li>첫 실행 가이드(손쉬운 사용 허용 · 로그인 시 실행 · macOS 기본 타일링 안내)</li>
+</ul>
+<p class="cur">v0.1.0 (지금 버전) 이전 내용은 보여 주지 않습니다.</p>
+</section>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/vinyasa-releases/main/releases/Vinyasa-0.1.3.zip" length="2782120" type="application/octet-stream" sparkle:edSignature="38P0KmHEAm19yxF/tfneQcTD5GP0pESoTo1+ju0006wV41+z5SCuQJ+2iEmU0nELDybvRMPpMX+TFwJg9vO2Cg=="/>
     </item>
   </channel>
 </rss>
