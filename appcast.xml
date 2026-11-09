@@ -3,10 +3,10 @@
   <channel>
     <title>Vinyasa</title>
     <item>
-      <title>Vinyasa 0.1.7</title>
-      <pubDate>Sun, 08 Nov 2026 11:18:14 GMT</pubDate>
-      <sparkle:version>39</sparkle:version>
-      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+      <title>Vinyasa 0.1.8</title>
+      <pubDate>Mon, 09 Nov 2026 14:01:17 GMT</pubDate>
+      <sparkle:version>43</sparkle:version>
+      <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<style>
 section { margin: 0 0 14px; }
@@ -19,8 +19,21 @@ section.sparkle-installed-version > * { display: none; }
 section.sparkle-installed-version > .cur { display: block; color: #8E8E93; font-size: 0.92em; border-top: 1px solid #E5E5E5; padding-top: 6px; }
 section.sparkle-installed-version ~ section { display: none; }
 </style>
+<section data-sparkle-version="43">
+<h3>v0.1.8 <span class="tag">설치할 버전</span><small>2026. 11. 09.</small></h3>
+<ul>
+<li>글씨 크기를 4단계로: 작게 · 보통(처음 값) · 크게 · 아주 크게. 예전 소 · 중 · 대는 보통 · 크게 · 아주 크게로 옮김</li>
+<li>글씨가 커지면 여백 · 단추 · 견본 · 아이콘 · 머리 높이 · 설정 창과 팝업 너비도 함께 커짐. 앱 이름 · 버전 · 설정 제목 · 「완료」도 따라 커짐</li>
+<li>⌘= 크게 · ⌘- 작게 · ⌘0 보통 (팝업 · 설정 · 시작하기 창에서)</li>
+<li>글씨 크기를 자리마다 맞춤(가장 작은 글씨 11pt). 정보 탭 앱 이름은 더 크게</li>
+<li>라이트 모드 색을 시스템 색으로: 흰 상자 + 시스템 구분선, 글씨 크기 고르기는 회색 홈 안 흰 알약</li>
+<li>머리 색 견본은 그림 없이 9개를 가로로, 고른 것만 ✓</li>
+<li>업데이트 · 확인 모드 스크립트가 임시 파일을 남기지 않음</li>
+</ul>
+<p class="cur">v0.1.8 (지금 버전) 이전 내용은 보여 주지 않습니다.</p>
+</section>
 <section data-sparkle-version="39">
-<h3>v0.1.7 <span class="tag">설치할 버전</span><small>2026. 11. 08.</small></h3>
+<h3>v0.1.7<small>2026. 11. 08.</small></h3>
 <ul>
 <li>머리 모양을 맥 앱 공통으로: 팝업 · 시작하기 머리는 한 줄(앱 아이콘 · 굵은 앱 이름 · 흐린 버전 · 둥근 톱니 단추)</li>
 <li>설정 창 머리는 같은 줄에 신호등 · 앱 아이콘 · 「Vinyasa 설정」(왼쪽 정렬), 그 아래 탭 줄</li>
@@ -100,7 +113,7 @@ section.sparkle-installed-version ~ section { display: none; }
 </ul>
 <p class="cur">v0.1.0 (지금 버전) 이전 내용은 보여 주지 않습니다.</p>
 </section>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/vinyasa-releases/main/releases/Vinyasa-0.1.7.zip" length="2820935" type="application/octet-stream" sparkle:edSignature="J1+NtZTaWj801ezYbkRo6Or6gPM0//CNSPIFpMgKO0Zf3vlUCP4MNs9ymFt11g3BuSm36aOnMYDx3FnNX4/FDg=="/>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/vinyasa-releases/main/releases/Vinyasa-0.1.8.zip" length="2825732" type="application/octet-stream" sparkle:edSignature="6Jnzlg4jq+vYPqyoZ2p6c9dtv2MkPs99+3Zja067mLEonGi4FqIPmK4zzjIdqpzRqrtH0GddzPsJkvO6jT6QBw=="/>
     </item>
   </channel>
 </rss>
