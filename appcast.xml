@@ -3,10 +3,10 @@
   <channel>
     <title>Vinyasa</title>
     <item>
-      <title>Vinyasa 0.1.12</title>
-      <pubDate>Sat, 14 Nov 2026 05:16:32 GMT</pubDate>
-      <sparkle:version>61</sparkle:version>
-      <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+      <title>Vinyasa 0.1.13</title>
+      <pubDate>Sun, 15 Nov 2026 10:00:07 GMT</pubDate>
+      <sparkle:version>63</sparkle:version>
+      <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<style>
 section { margin: 0 0 14px; }
@@ -19,8 +19,16 @@ section.sparkle-installed-version > * { display: none; }
 section.sparkle-installed-version > .cur { display: block; color: #8E8E93; font-size: 0.92em; border-top: 1px solid #E5E5E5; padding-top: 6px; }
 section.sparkle-installed-version ~ section { display: none; }
 </style>
+<section data-sparkle-version="63">
+<h3>v0.1.13 <span class="tag">설치할 버전</span><small>2026. 11. 15.</small></h3>
+<ul>
+<li>설정에 「점검」 탭을 새로 둠: 같은 단축키를 쓰는 창 관리 앱(Magnet · Rectangle · BetterSnapTool · Divvy · Spectacle)이 켜져 있는지, 키 입력을 가로챌 수 있는 앱이 켜져 있는지 보여 주고, 그 앱을 종료 · 열기 · 로그인 항목 열기로 바로 정리</li>
+<li>「직접 눌러 보기」: 단축키 하나를 골라 실제로 눌러 Vinyasa에 키가 오는지 10초 동안 확인(시험하는 동안 창은 옮기지 않음)</li>
+</ul>
+<p class="cur">v0.1.13 (지금 버전) 이전 내용은 보여 주지 않습니다.</p>
+</section>
 <section data-sparkle-version="61">
-<h3>v0.1.12 <span class="tag">설치할 버전</span><small>2026. 11. 14.</small></h3>
+<h3>v0.1.12<small>2026. 11. 14.</small></h3>
 <ul>
 <li>기본 단축키를 바꿈: 반 ⌃⌥ ← → ↑ ↓ · 모서리 ⌃⌥ U I J K · 가운데 1/3 ⌃⌥F · 2/3 ⌃⌥ E R T · 왼쪽 · 오른쪽 1/3 ⌥⇧ Page Up · Page Down(키가 없으면 설정에서 다시 지정) · 최대화 ⌃⌥↩ · 가운데로 ⌃⌥C · 원래 크기로 ⌃⌥⌫ · 이전 · 다음 디스플레이 ⌃⌥⌘ ← →</li>
 <li>세로 4칸 · 6분할 · 가운데 1/2 · 거의 최대화 · 높이만 최대화 · 크게 · 작게는 기본 단축키를 없앰(메뉴 막대 · 끌기는 그대로, 설정 › 단축키에서 직접 지정 가능)</li>
@@ -147,7 +155,7 @@ section.sparkle-installed-version ~ section { display: none; }
 </ul>
 <p class="cur">v0.1.0 (지금 버전) 이전 내용은 보여 주지 않습니다.</p>
 </section>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/vinyasa-releases/main/releases/Vinyasa-0.1.12.zip" length="2878359" type="application/octet-stream" sparkle:edSignature="+EFBaTvSIpSsLoTLNPRIVBOGFkeWmcfAf6vAYu7S34makAOEDJ6Id85Zy4+DsSfrISlfgXgqIJlwUkahvmeYCA=="/>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/vinyasa-releases/main/releases/Vinyasa-0.1.13.zip" length="2973866" type="application/octet-stream" sparkle:edSignature="B27lGvVcd2BCoOa8KUkd2dp4FwQF4I3AI33xFNeRq7i3CNCsULsYkXqe70u7LQtJ15P2Uk+QSqu/QJ3vplDAAQ=="/>
     </item>
   </channel>
 </rss>
