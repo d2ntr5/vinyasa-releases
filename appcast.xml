@@ -3,10 +3,10 @@
   <channel>
     <title>Vinyasa</title>
     <item>
-      <title>Vinyasa 0.1.17</title>
-      <pubDate>Thu, 19 Nov 2026 16:20:38 GMT</pubDate>
-      <sparkle:version>78</sparkle:version>
-      <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
+      <title>Vinyasa 0.1.18</title>
+      <pubDate>Thu, 19 Nov 2026 16:24:14 GMT</pubDate>
+      <sparkle:version>80</sparkle:version>
+      <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<style>
 section { margin: 0 0 14px; }
@@ -19,8 +19,15 @@ section.sparkle-installed-version > * { display: none; }
 section.sparkle-installed-version > .cur { display: block; color: #8E8E93; font-size: 0.92em; border-top: 1px solid #E5E5E5; padding-top: 6px; }
 section.sparkle-installed-version ~ section { display: none; }
 </style>
+<section data-sparkle-version="80">
+<h3>v0.1.18 <span class="tag">설치할 버전</span><small>2026. 11. 20.</small></h3>
+<ul>
+<li>다크 모드에서 주 단추 · 스위치가 어두운 머리 색이라 잘 안 보이던 것을 고침(다크에서는 더 밝은 같은 계열 색, 머리 띠는 그대로)</li>
+</ul>
+<p class="cur">v0.1.18 (지금 버전) 이전 내용은 보여 주지 않습니다.</p>
+</section>
 <section data-sparkle-version="78">
-<h3>v0.1.17 <span class="tag">설치할 버전</span><small>2026. 11. 20.</small></h3>
+<h3>v0.1.17<small>2026. 11. 20.</small></h3>
 <ul>
 <li>다른 앱을 보다가 설정 창 위쪽 탭을 한 번 누르면 창만 앞으로 오고 탭은 바뀌지 않던 것을 고침(첫 클릭에 바로 바뀜)</li>
 </ul>
@@ -184,7 +191,7 @@ section.sparkle-installed-version ~ section { display: none; }
 </ul>
 <p class="cur">v0.1.0 (지금 버전) 이전 내용은 보여 주지 않습니다.</p>
 </section>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/vinyasa-releases/main/releases/Vinyasa-0.1.17.zip" length="2999378" type="application/octet-stream" sparkle:edSignature="iTUzPsZ1I+NtXUkBT/qu8shCHwbwS8rRn7IpoWD75c0AW12r617EDGpZhmDJ8N6nDIMyfdym7HjuiOjdNNKgAQ=="/>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/vinyasa-releases/main/releases/Vinyasa-0.1.18.zip" length="2998137" type="application/octet-stream" sparkle:edSignature="2glDdeeI2wVq/IjMls6RCG6XAw61r/dtiNCLUcP4iFlp1kYUDuCz6Jffcc816iAPD3ZvfNVEpGP7vSk8p8WlCA=="/>
     </item>
   </channel>
 </rss>
