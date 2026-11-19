@@ -3,10 +3,10 @@
   <channel>
     <title>Vinyasa</title>
     <item>
-      <title>Vinyasa 0.1.18</title>
-      <pubDate>Thu, 19 Nov 2026 16:24:14 GMT</pubDate>
-      <sparkle:version>80</sparkle:version>
-      <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
+      <title>Vinyasa 0.1.19</title>
+      <pubDate>Thu, 19 Nov 2026 16:27:51 GMT</pubDate>
+      <sparkle:version>82</sparkle:version>
+      <sparkle:shortVersionString>0.1.19</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<style>
 section { margin: 0 0 14px; }
@@ -19,8 +19,15 @@ section.sparkle-installed-version > * { display: none; }
 section.sparkle-installed-version > .cur { display: block; color: #8E8E93; font-size: 0.92em; border-top: 1px solid #E5E5E5; padding-top: 6px; }
 section.sparkle-installed-version ~ section { display: none; }
 </style>
+<section data-sparkle-version="82">
+<h3>v0.1.19 <span class="tag">설치할 버전</span><small>2026. 11. 20.</small></h3>
+<ul>
+<li>다크 모드에서 설정 › 업데이트의 초록(새 버전) · 빨간(통신 문제) 상자 제목이 잘 안 보이던 것을 더 밝은 색으로</li>
+</ul>
+<p class="cur">v0.1.19 (지금 버전) 이전 내용은 보여 주지 않습니다.</p>
+</section>
 <section data-sparkle-version="80">
-<h3>v0.1.18 <span class="tag">설치할 버전</span><small>2026. 11. 20.</small></h3>
+<h3>v0.1.18<small>2026. 11. 20.</small></h3>
 <ul>
 <li>다크 모드에서 주 단추 · 스위치가 어두운 머리 색이라 잘 안 보이던 것을 고침(다크에서는 더 밝은 같은 계열 색, 머리 띠는 그대로)</li>
 </ul>
@@ -191,7 +198,7 @@ section.sparkle-installed-version ~ section { display: none; }
 </ul>
 <p class="cur">v0.1.0 (지금 버전) 이전 내용은 보여 주지 않습니다.</p>
 </section>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/vinyasa-releases/main/releases/Vinyasa-0.1.18.zip" length="2998137" type="application/octet-stream" sparkle:edSignature="2glDdeeI2wVq/IjMls6RCG6XAw61r/dtiNCLUcP4iFlp1kYUDuCz6Jffcc816iAPD3ZvfNVEpGP7vSk8p8WlCA=="/>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/vinyasa-releases/main/releases/Vinyasa-0.1.19.zip" length="2999259" type="application/octet-stream" sparkle:edSignature="+KBAM81A0bcvtT/AWTYIUwoOzzxvZ4u5rzfaJLy9Ql2UKyHbNcd0SMwc3jLbyzq178r36Qrapw2ZsLPTqRQGDQ=="/>
     </item>
   </channel>
 </rss>
