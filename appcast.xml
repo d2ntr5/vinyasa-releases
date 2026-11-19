@@ -3,10 +3,10 @@
   <channel>
     <title>Vinyasa</title>
     <item>
-      <title>Vinyasa 0.1.14</title>
-      <pubDate>Sun, 15 Nov 2026 10:14:49 GMT</pubDate>
-      <sparkle:version>66</sparkle:version>
-      <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
+      <title>Vinyasa 0.1.15</title>
+      <pubDate>Thu, 19 Nov 2026 14:20:39 GMT</pubDate>
+      <sparkle:version>74</sparkle:version>
+      <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<style>
 section { margin: 0 0 14px; }
@@ -19,8 +19,15 @@ section.sparkle-installed-version > * { display: none; }
 section.sparkle-installed-version > .cur { display: block; color: #8E8E93; font-size: 0.92em; border-top: 1px solid #E5E5E5; padding-top: 6px; }
 section.sparkle-installed-version ~ section { display: none; }
 </style>
+<section data-sparkle-version="74">
+<h3>v0.1.15 <span class="tag">설치할 버전</span><small>2026. 11. 19.</small></h3>
+<ul>
+<li>설정 › 업데이트의 새 버전 상자 주 단추와, 새 버전이 있을 때 「마지막 확인」 줄 단추 이름을 「업데이트…」에서 「업데이트」로(앱 공통 표준)</li>
+</ul>
+<p class="cur">v0.1.15 (지금 버전) 이전 내용은 보여 주지 않습니다.</p>
+</section>
 <section data-sparkle-version="66">
-<h3>v0.1.14 <span class="tag">설치할 버전</span><small>2026. 11. 15.</small></h3>
+<h3>v0.1.14<small>2026. 11. 15.</small></h3>
 <ul>
 <li>메뉴 막대 팝업에서 칸 위에 마우스를 올려도 아래 길이가 바뀌지 않음</li>
 <li>설정 창 높이를 최대 860으로(13인치 맥북 화면 정도). 단축키 탭처럼 긴 내용은 창 안에서 스크롤</li>
@@ -163,7 +170,7 @@ section.sparkle-installed-version ~ section { display: none; }
 </ul>
 <p class="cur">v0.1.0 (지금 버전) 이전 내용은 보여 주지 않습니다.</p>
 </section>]]></description>
-      <enclosure url="https://raw.githubusercontent.com/d2ntr5/vinyasa-releases/main/releases/Vinyasa-0.1.14.zip" length="2977643" type="application/octet-stream" sparkle:edSignature="WRwrLyQIkmAYICO9VaQ2wfdburSkYsBO6mT4nXcjtadbF8F79KW7p6mZmhdS+FmqYzfum3lhGKqE2XX69zJgDg=="/>
+      <enclosure url="https://raw.githubusercontent.com/d2ntr5/vinyasa-releases/main/releases/Vinyasa-0.1.15.zip" length="2977693" type="application/octet-stream" sparkle:edSignature="3zVA93Jkfl7a1OSgdYhk+BWVMB04lFc2oWJ8DTEdTv5BecY92wyL+jzHQsGSTSTgOv4TsBJt8W0uHpcC2ykQAw=="/>
     </item>
   </channel>
 </rss>
